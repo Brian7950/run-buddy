@@ -78,6 +78,8 @@ footer a {
     background-size: cover;
     background-position: center;
     position: relative;
+    padding-top: 30px;
+    
 } 
  /*Form Section */ 
 .hero-form {
